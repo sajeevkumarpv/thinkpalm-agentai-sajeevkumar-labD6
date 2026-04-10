@@ -3,7 +3,7 @@ Description:
 
 # EnhancedCalculator Documentation
 
-## Class: EnhancedCalculator
+## Class: Calculate_improved
 
 ### Overview
 The `EnhancedCalculator` class is an extension of basic calculator functionalities, incorporating advanced mathematical operations and features to enhance user experience.
